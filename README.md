@@ -7,7 +7,7 @@
 </center>
 
 <div>
-  <h1>Projects</h1>
+  <h1>PROJECTS</h1>
 <!--   itsfinal coming very soon
   readytoreact deployed
   symboltracker deployed
@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <h1>Talks</h1>
+  <h1>TECH TALKS</h1>
 <!--   <ul>
     <li>
       <a href="">The CORS of Errors</a>
@@ -28,11 +28,11 @@
 </div>
 
 <div>
-  <h1>Achievements</h1>
+  <h1>ACHIEVEMENTS</h1>
 </div>
 
 <div>
-  <h1>Awesome Tech I Use</h1>
+  <h1>TECH I USE</h1>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
 </div>
 
