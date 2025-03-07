@@ -8,6 +8,11 @@
 
 <div>
   <h1>Projects</h1>
+<!--   itsfinal coming very soon
+  readytoreact deployed
+  symboltracker deployed
+  virtual guardian soming not as soon
+  echocast coming soon -->
 </div>
 
 <div>
