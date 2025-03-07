@@ -3,6 +3,14 @@
 </p>
 
 <div>
+  <h1>Projects</h1>
+</div>
+
+<div>
+  <h1>Talks</h1>
+</div>
+
+<div>
   <h1>Tech Stack</h1>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,mongodb,postgres,cloudflare,vite)"/>
 </div>
