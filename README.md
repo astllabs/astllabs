@@ -3,8 +3,6 @@
 </p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM4YTQwdnU4bzlnZG0ydnc0d3hhN3NvbDF6NnV1OGF1eGUxdDY4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ROcSJHrOhhBkc/giphy.gif"/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0zczh5ODcybHR3b3V4a3hqc2wxcHhhOHUyZWV0ZHFrd2FnN3J3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eqMuF1GsX2WxKqnPlb/giphy.gif"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM4YTQwdnU4bzlnZG0ydnc0d3hhN3NvbDF6NnV1OGF1eGUxdDY4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ec6gfgffNKUCGkE1Af/giphy.gif"/>
 
 <div>
   <h1>Projects</h1>
