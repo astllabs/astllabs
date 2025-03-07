@@ -12,6 +12,14 @@
 
 <div>
   <h1>Talks</h1>
+  <ul>
+    <li>
+      <a href="">The CORS of Errors</a>
+    </li>
+    <li>
+      <a href="">Ready to React</a>
+    </li>
+  </ul>
 </div>
 
 <div>
