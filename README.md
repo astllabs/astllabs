@@ -11,6 +11,10 @@
 </div>
 
 <div>
+  <h1>Achievements</h1>
+</div>
+
+<div>
   <h1>Tech Stack</h1>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
 </div>
