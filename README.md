@@ -27,7 +27,7 @@
 </div>
 
 <div>
-  <h1>Tech Stack</h1>
+  <h1>Awesome Tech I Use</h1>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
 </div>
 
