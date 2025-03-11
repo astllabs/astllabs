@@ -21,15 +21,6 @@
 <p></p>
 
 <div>
-  <h1>PROJECTS</h1>
-<!--   itsfinal coming very soon
-  readytoreact deployed
-  symboltracker deployed
-  virtual guardian soming not as soon
-  echocast coming soon -->
-</div>
-
-<div>
   <h1>ACHIEVEMENTS</h1>
 </div>
 
