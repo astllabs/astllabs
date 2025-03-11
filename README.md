@@ -6,7 +6,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl6OXZtcDFlcGs0aWJoZ3k5MXhheW85ZWE3YmVhNGY3dDljdHRsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1sfScbaA2DKcGLVYev/giphy.gif"/>
 </center>
 
-<h2>📝 RECENT PROJECTS</h2>
+<h1>📝 RECENT PROJECTS</h2>
 <h3><a href="https://itsfinal.net">ITSFINAL</a><br></h3>
 <p></p>
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
@@ -21,19 +21,19 @@
 <p>Currently being developed as a fan project for Tom Clancy's The Division 1, this site will allow users to listen to in-game lore recordings. I'm using this as an opportunity to explore audio integration in web apps, focusing on seamless audio playback and enhancing the user experience.</p>
 
 <div>
-  <h1>ACHIEVEMENTS</h1>
+  <h1>🏆 ACHIEVEMENTS</h1>
   <h3>Destiny 2 Raid Placements</h3>
   <ul>
-    <li>🏆 <strong>373rd - Sundered Doctrine</strong> - [07/02/25]</li>
-    <li>🏆 <strong>462nd - Vesper's Host</strong> - [11/10/24]</li>
-    <li>🥇 <strong>640th - Salvation's Edge</strong> - [07/07/24]</li>
-    <li>🥈 <strong>651 - Crota's End</strong> - [01/09/23]</li>
-    <li>🥉 <strong>1319th King's Fall</strong> - [26/08/22]</li>
+    <li>🏅 <strong>373rd - Sundered Doctrine</strong> - [07/02/25]</li>
+    <li>🏅 <strong>462nd - Vesper's Host</strong> - [11/10/24]</li>
+    <li>🏅 <strong>640th - Salvation's Edge</strong> - [07/07/24]</li>
+    <li>🏅 <strong>651st - Crota's End</strong> - [01/09/23]</li>
+    <li>🏅 <strong>1319th King's Fall</strong> - [26/08/22]</li>
   </ul>
 </div>
 
 <div>
-  <h1>TECH I USE</h1>
+  <h1>💻 TECH I USE</h1>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
 </div>
 
