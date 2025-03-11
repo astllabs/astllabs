@@ -7,15 +7,15 @@
 </center>
 
 <h2>📝 RECENT PROJECTS</h2>
-<h3><a href="">ITSFINAL</a><br></h3>
+<h3><a href="https://itsfinal.net">ITSFINAL</a><br></h3>
 <p><br></p>
-<h3><a href="">Ready to React</a><br></h3>
+<h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
 <p></p>
-<h3><a href="">Junction Flow</a><br></h3>
+<h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
 <p></p>
-<h3><a href="">The CORS of Errors</a><br></h3>
+<h3><a href="https://youtu.be/nFrap_AjdP4?si=6MdG9qj0C7nYvRTy">The CORS of Errors</a><br></h3>
 <p></p>
-<h3><a href="">Symbol Tracker</a><br></h3>
+<h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
 <p></p>
 <h3><a href="">Echocast</a><br></h3>
 <p></p>
