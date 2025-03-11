@@ -12,12 +12,12 @@
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
 <p></p>
 <h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
-<p></p>
+<p>Developed as part of the Software Engineering module at university, this project models traffic flow through a junction. I personally handled all the programming and used it as an opportunity to learn the React Flow library.</p>
 <h3><a href="https://youtu.be/nFrap_AjdP4?si=6MdG9qj0C7nYvRTy">The CORS of Errors</a><br></h3>
 <p>This is a Lightning Talk I gave during my first year at university on Cross-Origin Resource Sharing (CORS). The talk was inspired by the book <i>CORS in Action</i> and covers the motivation behind CORS, its integration into browsers, and provides insights into the preflight process.</p>
 <h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
-<p>A site that helps players of the game Destiny 2 with unlocking secrets in the game. Since launching in 2022 it has helped over a thousand players and recieved praise from the comm</p>
-<h3><a href="">Echocast</a><br></h3>
+<p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over a thousand players and received praise from the community.</p>
+<h3>Echocast [Coming Soon]<br></h3>
 <p></p>
 
 <div>
