@@ -8,7 +8,7 @@
 
 <h2>📝 RECENT PROJECTS</h2>
 <h3><a href="https://itsfinal.net">ITSFINAL</a><br></h3>
-<p><br></p>
+<p></p>
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
 <p></p>
 <h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
@@ -17,8 +17,8 @@
 <p>This is a Lightning Talk I gave during my first year at university on Cross-Origin Resource Sharing (CORS). The talk was inspired by the book <i>CORS in Action</i> and covers the motivation behind CORS, its integration into browsers, and provides insights into the preflight process.</p>
 <h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
 <p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over a thousand players and received praise from the community.</p>
-<h3>Echocast [Coming Soon]<br></h3>
-<p></p>
+<h3>Echocast<br></h3>
+<p>Currently being developed as a fan project for Tom Clancy's The Division 1, this site will allow users to listen to in-game lore recordings. I'm using this as an opportunity to explore audio integration in web apps, focusing on seamless audio playback and enhancing the user experience.</p>
 
 <div>
   <h1>ACHIEVEMENTS</h1>
