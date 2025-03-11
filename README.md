@@ -6,6 +6,14 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl6OXZtcDFlcGs0aWJoZ3k5MXhheW85ZWE3YmVhNGY3dDljdHRsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1sfScbaA2DKcGLVYev/giphy.gif"/>
 </center>
 
+<h2>📝 Recent Projects</h2>
+<h3><a href=""></a><br></h3>
+<p><br></p>
+<h3><a href=""></a><br></h3>
+<p></p>
+<h3><a href=""></a><br></h3>
+<p></p>
+
 <div>
   <h1>PROJECTS</h1>
 <!--   itsfinal coming very soon
