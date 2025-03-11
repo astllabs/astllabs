@@ -10,7 +10,7 @@
 <h3><a href="https://itsfinal.net">ITSFINAL</a><br></h3>
 <p></p>
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
-<p>I organized and taught a <strong>5-session React course</strong> to university students in-person at lecture theatres, with each session lasting 1 hour. The course covered the fundamentals of React, and I was responsible for all aspects of the course, including planning, teaching, and creating the resources. Check out the <a href="https://www.youtube.com/watch?v=OBBCnAkawyU&t=1045s">first session</a> to get started!</p>
+<p>I organized and taught a <strong>5-session React course</strong> to university students in-person at lecture theatres, with each session lasting 1 hour. The course covered the fundamentals of React, and I was responsible for all aspects of the course, including planning, teaching, and creating the resources. Check out the <a href="https://www.youtube.com/watch?v=OBBCnAkawyU">first session</a> to get started!</p>
 
 <h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
 <p>Developed as part of the Software Engineering module at university, this project models traffic flow through a junction. I personally handled all the programming and used it as an opportunity to learn the React Flow library.</p>
