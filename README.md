@@ -30,18 +30,6 @@
 </div>
 
 <div>
-  <h1>TECH TALKS</h1>
-<!--   <ul>
-    <li>
-      <a href="">The CORS of Errors</a>
-    </li>
-    <li>
-      <a href="">Ready to React</a>
-    </li>
-  </ul> -->
-</div>
-
-<div>
   <h1>ACHIEVEMENTS</h1>
 </div>
 
