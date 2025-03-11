@@ -24,10 +24,11 @@
   <h1>ACHIEVEMENTS</h1>
   <h3>Destiny 2 Raid Placements</h3>
   <ul>
-    <li>🏆 <strong>Top 1000 - Race to World First</strong> - [Date or Season]</li>
-    <li>🥇 <strong>Top 500 - Competitive Gambit Event</strong> - [Date or Season]</li>
-    <li>🥈 <strong>Top 100 - Crucible Competitive Rank</strong> - [Date or Season]</li>
-    <li>🥉 <strong>Top 200 - Nightfall Speedrun</strong> - [Date or Season]</li>
+    <li>🏆 <strong>373rd - Sundered Doctrine</strong> - [07/02/25]</li>
+    <li>🏆 <strong>462nd - Vesper's Host</strong> - [11/10/24]</li>
+    <li>🥇 <strong>640th - Salvation's Edge</strong> - [07/07/24]</li>
+    <li>🥈 <strong>651 - Crota's End</strong> - [01/09/23]</li>
+    <li>🥉 <strong>1319th King's Fall</strong> - [26/08/22]</li>
   </ul>
 </div>
 
