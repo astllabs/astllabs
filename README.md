@@ -7,7 +7,7 @@
 </center>
 
 <h1>📝 RECENT PROJECTS</h2>
-<h3><a href="https://itsfinal.net">ITSFINAL</a> [Launch Soon]<br></h3>
+<h3><a href="https://itsfinal.net">ITSFINAL</a> [Beta][Launch Soon]<br></h3>
 <p>My flagship project, developed over the span of 3 years, ITSFINAL is a tournament platform for Destiny 2 for finding champions. Users can vote on their favorite emblems, unlock achievements, create custom emblems, and even participate in giveaways.</p>
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
 <p>I organized and taught a <strong>5-session React course</strong> to university students in-person at lecture theatres, with each session lasting 1 hour. The course covered the fundamentals of React, and I was responsible for all aspects of the course, including planning, teaching, and creating the resources. Check out the <a href="https://www.youtube.com/watch?v=OBBCnAkawyU">first session</a> to get started!</p>
