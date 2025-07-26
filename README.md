@@ -21,6 +21,7 @@
   <h1>🏆 ACHIEVEMENTS</h1>
   <h3>Destiny 2 Raid Placements</h3>
   <ul>
+    <li>🏅 <strong>77th - The Desert Perpetual</strong> - [21/07/25]</li>
     <li>🏅 <strong>373rd - Sundered Doctrine</strong> - [07/02/25]</li>
     <li>🏅 <strong>462nd - Vesper's Host</strong> - [11/10/24]</li>
     <li>🏅 <strong>640th - Salvation's Edge</strong> - [07/07/24]</li>
