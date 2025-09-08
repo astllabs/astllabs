@@ -40,7 +40,7 @@
 
 <div>
   <h1>🔧 TECH I USE</h1>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,remix,nextjs,redux,astrotailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,remix,nextjs,redux,astro,tailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
 </div>
 
 <p align="center">
