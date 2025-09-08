@@ -9,7 +9,7 @@
 <h3><a href="https://warwickesports.com">Warwick Esports</a><br></h3>
 <p>I rebuilt the Warwick Esports society website from scratch using Astro, React, and Framer Motion (now Motion) to deliver a modern, and standout society platform. It’s designed with accessibility in mind and built so non-programmers can easily update content, with changes instantly deployed via Cloudflare. The result is an awesome, future-proof site that raises the standard for university society websites.</p>
 
-<h3><a href="https://itsfinal.net">ITSFINAL</a> [In Development]<br></h3>
+<h3><a href="https://itsfinal.net">ITSFINAL</a> [In Development][Desktop Support In Progress]<br></h3>
 <p>My flagship project, developed over the span of 3 years, ITSFINAL is a tournament platform for Destiny 2 for finding champions. Users can vote on their favorite emblems, unlock achievements, create custom emblems, and even participate in giveaways.</p>
 
 <h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
