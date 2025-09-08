@@ -7,7 +7,7 @@
 <p>Currently being developed as a fan project for Tom Clancy's The Division 1 & 2, this site will allow users to listen to in-game lore recordings. I'm using this as an opportunity to explore audio integration in web apps, focusing on seamless audio playback and enhancing the user experience.</p>
 
 <h3><a href="https://warwickesports.com">Warwick Esports</a><br></h3>
-<p>Currently being developed as a fan project for Tom Clancy's The Division 1, this site will allow users to listen to in-game lore recordings. I'm using this as an opportunity to explore audio integration in web apps, focusing on seamless audio playback and enhancing the user experience.</p>
+<p>I rebuilt the Warwick Esports society website from scratch using Astro, React, and Framer Motion (now Motion) to deliver a modern, and standout society platform. It’s designed with accessibility in mind and built so non-programmers can easily update content, with changes instantly deployed via Cloudflare. The result is an awesome, future-proof site that raises the standard for university society websites.</p>
 
 <h3><a href="https://itsfinal.net">ITSFINAL</a> [In Development]<br></h3>
 <p>My flagship project, developed over the span of 3 years, ITSFINAL is a tournament platform for Destiny 2 for finding champions. Users can vote on their favorite emblems, unlock achievements, create custom emblems, and even participate in giveaways.</p>
@@ -18,7 +18,7 @@
 <h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
 <p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over a thousand players and received praise from the community.</p>
 
-<h2>TALKS AND COURSES</h2>
+<h2>🎤 TALKS AND COURSES</h2>
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
 <p>I organized and taught a <strong>5-session React course</strong> to university students in-person at lecture theatres, with each session lasting 1 hour. The course covered the fundamentals of React, and I was responsible for all aspects of the course, including planning, teaching, and creating the resources. Check out the <a href="https://www.youtube.com/watch?v=OBBCnAkawyU">first session</a> to get started!</p>
 
