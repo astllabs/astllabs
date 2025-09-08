@@ -6,20 +6,24 @@
 <h3>Echocast [Coming Soon]<br></h3>
 <p>Currently being developed as a fan project for Tom Clancy's The Division 1 & 2, this site will allow users to listen to in-game lore recordings. I'm using this as an opportunity to explore audio integration in web apps, focusing on seamless audio playback and enhancing the user experience.</p>
 
-<h3><a href="https://itsfinal.net">ITSFINAL</a> [In Development]<br></h3>
-<p>My flagship project, developed over the span of 3 years, ITSFINAL is a tournament platform for Destiny 2 for finding champions. Users can vote on their favorite emblems, unlock achievements, create custom emblems, and even participate in giveaways.</p>
-<h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
-<p>I organized and taught a <strong>5-session React course</strong> to university students in-person at lecture theatres, with each session lasting 1 hour. The course covered the fundamentals of React, and I was responsible for all aspects of the course, including planning, teaching, and creating the resources. Check out the <a href="https://www.youtube.com/watch?v=OBBCnAkawyU">first session</a> to get started!</p>
-
 <h3><a href="https://warwickesports.com">Warwick Esports</a><br></h3>
 <p>Currently being developed as a fan project for Tom Clancy's The Division 1, this site will allow users to listen to in-game lore recordings. I'm using this as an opportunity to explore audio integration in web apps, focusing on seamless audio playback and enhancing the user experience.</p>
 
+<h3><a href="https://itsfinal.net">ITSFINAL</a> [In Development]<br></h3>
+<p>My flagship project, developed over the span of 3 years, ITSFINAL is a tournament platform for Destiny 2 for finding champions. Users can vote on their favorite emblems, unlock achievements, create custom emblems, and even participate in giveaways.</p>
+
 <h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
 <p>Developed as part of the Software Engineering module at university, this project models traffic flow through a junction. I personally handled all the programming and used it as an opportunity to learn the React Flow library.</p>
-<h3><a href="https://youtu.be/nFrap_AjdP4?si=6MdG9qj0C7nYvRTy">The CORS of Errors</a><br></h3>
-<p>This is a Lightning Talk I gave during my first year at university on Cross-Origin Resource Sharing (CORS). The talk was inspired by the book <i>CORS in Action</i> and covers the motivation behind CORS, its integration into browsers, and provides insights into the preflight process.</p>
+
 <h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
 <p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over a thousand players and received praise from the community.</p>
+
+<h2>TALKS AND COURSES</h2>
+<h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
+<p>I organized and taught a <strong>5-session React course</strong> to university students in-person at lecture theatres, with each session lasting 1 hour. The course covered the fundamentals of React, and I was responsible for all aspects of the course, including planning, teaching, and creating the resources. Check out the <a href="https://www.youtube.com/watch?v=OBBCnAkawyU">first session</a> to get started!</p>
+
+<h3><a href="https://youtu.be/nFrap_AjdP4?si=6MdG9qj0C7nYvRTy">The CORS of Errors</a><br></h3>
+<p>This is a Lightning Talk I gave during my first year at university on Cross-Origin Resource Sharing (CORS). The talk was inspired by the book <i>CORS in Action</i> and covers the motivation behind CORS, its integration into browsers, and provides insights into the preflight process.</p>
 
 <div>
   <h1>🏆 ACHIEVEMENTS</h1>
@@ -36,7 +40,7 @@
 
 <div>
   <h1>🔧 TECH I USE</h1>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,remix,nextjs,redux,tailwind,nodejs,mongodb,postgres,cloudflare,vite,git)"/>
 </div>
 
 <p align="center">
