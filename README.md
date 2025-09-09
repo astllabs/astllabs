@@ -16,7 +16,7 @@
 <p>Developed as part of the Software Engineering module at university, this project models traffic flow through a junction. I personally handled all the programming and used it as an opportunity to learn the React Flow library.</p>
 
 <h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
-<p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over a thousand players and received praise from the community.</p>
+<p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over a thousand players and received positive feedback from the community.</p>
 
 <h2>🎤 TALKS AND COURSES</h2>
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
