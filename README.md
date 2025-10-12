@@ -4,19 +4,19 @@
 
 <h1>📝 RECENT PROJECTS</h2>
 <h3>Echocast [Coming Soon]<br></h3>
-<p>Currently being developed as a fan project for Tom Clancy's The Division 1 & 2, this site will allow users to listen to in-game lore recordings. I'm using this as an opportunity to explore audio integration in web apps, focusing on seamless audio playback and enhancing the user experience.</p>
+<p></p>
 
 <h3><a href="https://warwickesports.com">Warwick Esports</a><br></h3>
-<p>I rebuilt the Warwick Esports society website from scratch using Astro, React, and Framer Motion (now Motion) to deliver a modern, and standout society platform. It’s designed with accessibility in mind and built so non-programmers can easily update content, with changes instantly deployed via Cloudflare. The result is an awesome, future-proof site that raises the standard for university society websites.</p>
+<p>A rebrand and relaunch of the Warwick Esports society website built using Astro, React, and Framer Motion (now Motion) to deliver a modern, and standout society platform. It’s designed with accessibility in mind and built so non-programmers can easily update content, with changes instantly deployed via Cloudflare. The result is an awesome, future-proof site that raises the standard for university society websites.</p>
 
 <h3><a href="https://itsfinal.net">ITSFINAL</a> [In Development & Desktop Support In Progress]<br></h3>
-<p>My flagship project, developed over the span of 3 years, ITSFINAL is a tournament platform for Destiny 2 for finding champions. Users can vote on their favorite emblems, unlock achievements, create custom emblems, and even participate in giveaways.</p>
+<p>A a tournament platform for Destiny 2 where users vote, create custom emblems and earn achievements. The site is currently still in beta and desktop support is in progress, so if you want to check the site out use a mobile!</p>
 
 <h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
 <p>Developed as part of the Software Engineering module at university, this project models traffic flow through a junction. I personally handled all the programming and used it as an opportunity to learn the React Flow library.</p>
 
 <h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
-<p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over a thousand players and received positive feedback from the community.</p>
+<p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over 5,000 players and received positive feedback from the community.</p>
 
 <h2>🎤 TALKS AND COURSES</h2>
 <h3><a href="https://readytoreact.net/">Ready to React</a><br></h3>
