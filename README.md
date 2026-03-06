@@ -6,6 +6,9 @@
 <h3>Apex Outlands<br></h3>
 <p>My final-year dissertation project at the University of Warwick, focused on engineering a modular pipeline to generate panoramic imagery from 3D game environments.</p>
 
+<h3><a href="https://youtu.be/xw8YxU5UKCs?si=2Sgm8jU-LCxLIz2c">The World Crawler</a><br></h3>
+<p>Part I of my undergraduate dissertation. I designed a high-performance automation system to map virtual worlds into tens of thousands of panoramic images. The system processes approximately 8,500 images per hour. I built my own custom GPU-accelerated geometric stitcher to achieve this performance.</p>
+
 <p>The system automates the generation of over 25,000 panoramic images of Apex Legends maps, transforming a manual process that previously took months into an automated pipeline that completes in hours.</p>
 
 <h3>Echocast<br></h3>
