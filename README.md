@@ -4,7 +4,7 @@
 
 <h1>📝 PROJECTS</h2>
 <h3>Apex Outlands<br></h3>
-<p>Part II of my undergraduate dissertation. I developed the first large-scale GeoGuessr-style platform for Apex Legends and Titanfall 2, supporting over 30,000 locations, each with a perfectly stitched 8K panorama. The platform includes multiplayer and offers the most in-depth stat tracking of any GeoGuessr-style game.</p>
+<p>Part II of my undergraduate dissertation. I developed the first large-scale GeoGuessr-style platform for Apex Legends and Titanfall 2, supporting over 30,000 locations, each with a perfectly stitched 8K panorama. The platform includes multiplayer support and offers the most in-depth stat tracking of any GeoGuessr-style game.</p>
 
 <h3><a href="https://youtu.be/xw8YxU5UKCs?si=2Sgm8jU-LCxLIz2c">The World Crawler</a><br></h3>
 <p>Part I of my undergraduate dissertation. I designed a high-performance automation system to map virtual worlds into tens of thousands of panoramic images. The system processes approximately 8,500 images per hour. I built my own custom GPU-accelerated geometric stitcher to achieve this performance.</p>
