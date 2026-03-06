@@ -3,8 +3,15 @@
 </p>
 
 <h1>📝 RECENT PROJECTS</h2>
+<h3>Apex Outlands<br></h3>
+<p>My final-year dissertation project at the University of Warwick, focused on engineering a modular pipeline to generate panoramic imagery from 3D game environments.</p>
+
+<p>The system automates the generation of over 25,000 panoramic images of Apex Legends maps, transforming a manual process that previously took months into an automated pipeline that completes in hours.</p>
+
 <h3>Echocast [Coming Soon]<br></h3>
-<p></p>
+<p>A Spotify-style platform analysing dialogue from Apex Legends. The platform processes and organises over 1,000 Division 1 & 2 dialogue files, allowing users to explore audio through searchable transcripts and visualised playback.</p>
+
+<p>Built with accessibility in mind, the project integrates AssemblyAI for transcript generation and uses the Web Audio API to provide interactive audio visualisation. To optimise performance, a 20MB dataset was split into modular JSON files and distributed via a CDN, enabling near-instant on-demand loading.</p>
 
 <h3><a href="https://warwickesports.com">Warwick Esports</a><br></h3>
 <p>A rebrand and relaunch of the Warwick Esports society website built using Astro, React, and Framer Motion (now Motion) to deliver a modern, and standout society platform. It’s designed with accessibility in mind and built so non-programmers can easily update content, with changes instantly deployed via Cloudflare.</p>
