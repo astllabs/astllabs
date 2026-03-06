@@ -16,11 +16,11 @@
 <h3><a href="https://warwickesports.com">Warwick Esports</a><br></h3>
 <p>A rebrand and relaunch of the Warwick Esports society website built using Astro, React, and Framer Motion (now Motion) to deliver a modern, and standout society platform. It’s designed with accessibility in mind and built so non-programmers can easily update content, with changes instantly deployed via Cloudflare.</p>
 
-<h3>ITSFINAL<br></h3>
+<!-- <h3>ITSFINAL<br></h3>
 <p>A a tournament platform for Destiny 2 where users vote, create custom emblems and earn achievements. The site is currently still in beta and desktop support is in progress, so if you want to check the site out use a mobile!</p>
 
 <h3><a href="https://cs261-prod.pages.dev/">Junction Flow</a><br></h3>
-<p>Developed as part of the Software Engineering module at university, this project models traffic flow through a junction. I personally handled all the programming and used it as an opportunity to learn the React Flow library.</p>
+<p>Developed as part of the Software Engineering module at university, this project models traffic flow through a junction. I personally handled all the programming and used it as an opportunity to learn the React Flow library.</p> -->
 
 <h3><a href="https://symboltracker.net">Symbol Tracker</a><br></h3>
 <p>A site that helps Destiny 2 players unlock secrets within the game. Since its launch in 2022, it has assisted over 5,000 players and received positive feedback from the community.</p>
