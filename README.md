@@ -10,9 +10,7 @@
 <p>Part I of my undergraduate dissertation. I designed a high-performance automation system to map virtual worlds into tens of thousands of panoramic images. The system processes approximately 8,500 images per hour. I built my own custom GPU-accelerated geometric stitcher to achieve this performance.</p>
 
 <h3>Echocast<br></h3>
-<p>A Spotify-style platform analysing dialogue from Apex Legends. The platform processes and organises over 1,000 Division 1 & 2 dialogue files, allowing users to explore audio through searchable transcripts and visualised playback.</p>
-
-<p>Built with accessibility in mind, the project integrates AssemblyAI for transcript generation and uses the Web Audio API to provide interactive audio visualisation. To optimise performance, a 20MB dataset was split into modular JSON files and distributed via a CDN, enabling near-instant on-demand loading.</p>
+<p>A Spotify-style platform for analysing dialogue from Tom Clancy's The Division 1 & 2. The platform support over 1,000 dialogue files, allowing users to explore audio through searchable transcripts and visualised playback. The project integrates AssemblyAI for transcript generation and uses the Web Audio API to provide audio visuals. To optimise performance, a 20MB dataset was split into modular JSON files and distributed via a CDN, enabling near-instant on-demand loading.</p>
 
 <h3><a href="https://warwickesports.com">Warwick Esports</a><br></h3>
 <p>A rebrand and relaunch of the Warwick Esports society website built using Astro, React, and Framer Motion (now Motion) to deliver a modern, and standout society platform. It’s designed with accessibility in mind and built so non-programmers can easily update content, with changes instantly deployed via Cloudflare.</p>
