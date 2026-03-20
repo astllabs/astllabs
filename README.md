@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=26bbff&text=ASTRAL%20LABS&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3ddc84&text=ASTRAL%20LABS&fontColor=ffffff"/>
 </p>
 
 <h1>📝 PROJECTS</h2>
@@ -50,5 +50,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=26bbff&text=END%20OF%20LINE&fontColor=ffffff&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3ddc84&text=END%20OF%20LINE&fontColor=ffffff&section=footer"/>
 </p>
