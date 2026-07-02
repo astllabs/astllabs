@@ -19,5 +19,5 @@
 - _(Jaunary 2026)_ A high performance automation tool I built for use in my undergrad dissertation to generate panoramic datasets for moddable games ([video here](https://youtu.be/xw8YxU5UKCs?si=kfRcpjhpI1sr4ELR))
 - _(September 2025)_ A society website for Warwick Esports ([website here](https://warwickesports.com))
 - _(January 2025)_ Ready to React, a five-week course I created and taught on React fundamentals during my time as an Academic Executive via UWCS ([website here](https://readytoreact.net/), [part 1 video here](https://youtu.be/OBBCnAkawyU?si=h7GEzK0pvofjvDTk))
-- _(Feburary 2025)_ A talk on Cross Origin Resource Sharing (CORS) ([video here](https://www.youtube.com/watch?v=nFrap_AjdP4))
+- _(Feburary 2024)_ A talk on Cross Origin Resource Sharing (CORS) ([video here](https://www.youtube.com/watch?v=nFrap_AjdP4))
 - _(September 2022)_ Symbol Tracker, a raid puzzle solver for Destiny 2 raids ([website here](https://symboltracker.net))
