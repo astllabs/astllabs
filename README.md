@@ -16,7 +16,7 @@
 
 - _(July 2026)_ Apex Outlands,
 - _(April 2026)_ My Bachelor's dissertation, titled "Automated Panoramic Mapping of Virtual Worlds with a GeoGuessr-Style Platform for Apex Legends" and supervised by [Dr Greg Watson](https://warwick.ac.uk/fac/sci/dcs/people/greg_watson/) and [Dr Alex Dixon](https://warwick.ac.uk/fac/sci/dcs/people/alex_dixon/)  ([dissertation here](https://github.com/astllabs/uow-diss/blob/main/dissertation.pdf), [presentation here](https://github.com/astllabs/uow-diss/blob/main/presentation.pdf))
-- _(Jaunary 2026)_ The World Crawler,
+- _(Jaunary 2026)_ A high performance automation tool I built for use in my undergrad dissertation to generate panoramic datasets for moddable games ([video here](https://youtu.be/xw8YxU5UKCs?si=kfRcpjhpI1sr4ELR))
 - _(September 2025)_ A society website for Warwick Esports ([website here](https://warwickesports.com))
 - _(January 2025)_ Ready to React, a five-week course I created and taught on React fundamentals during my time as an Academic Executive via UWCS ([website here](https://readytoreact.net/), [part 1 video here](https://youtu.be/OBBCnAkawyU?si=h7GEzK0pvofjvDTk))
 - _(Feburary 2025)_ A talk on Cross Origin Resource Sharing (CORS) ([video here](https://www.youtube.com/watch?v=nFrap_AjdP4))
