@@ -1,4 +1,4 @@
-<h1 align="center"> ⭐ Hi, I'm Josh</h1>
+<h1 align="center"> Hi, I'm Josh</h1>
 
 ##### What I've worked on
 
