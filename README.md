@@ -1,4 +1,4 @@
-<h1 align="center"> :wave: Hey, I'm Josh</h1>
+<h1 align="center"> :wave: Hey, I'm Josh aka Astral Labs</h1>
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
     <a href="https://www.linkedin.com/in/josh-s-4a4b6926b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
