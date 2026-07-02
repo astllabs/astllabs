@@ -21,3 +21,7 @@
 - _(January 2025)_ Ready to React, a five-week course I created and taught on React fundamentals during my time as an Academic Executive via UWCS ([website here](https://readytoreact.net/), [part 1 video here](https://youtu.be/OBBCnAkawyU?si=h7GEzK0pvofjvDTk))
 - _(Feburary 2024)_ A talk on Cross Origin Resource Sharing (CORS) ([video here](https://www.youtube.com/watch?v=nFrap_AjdP4))
 - _(September 2022)_ Symbol Tracker, a raid puzzle solver for Destiny 2 raids ([website here](https://symboltracker.net))
+
+##### What I'm working on
+
+- _(TBD 2026)_ Echocast, a Spotify-style website for the Tom Clancy's The Division franchise
