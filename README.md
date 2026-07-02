@@ -19,5 +19,5 @@
 - _(Jaunary 2026)_ The World Crawler,
 - _(September 2025)_ Warwick Esports,
 - _(January 2025)_ Ready to React,
-- _(Feburary 2025)_ The CORS of Errors,
+- _(Feburary 2025)_ A talk on Cross Origin Resource Sharing (CORS) ([video here](https://www.youtube.com/watch?v=nFrap_AjdP4))
 - _(September 2022)_ Symbol Tracker,
